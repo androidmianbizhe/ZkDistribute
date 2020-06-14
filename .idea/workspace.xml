@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ad9a313-a283-4c9d-a436-dff716891bed" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\DEV_TOOLS\maven_repo" />
+        <option name="mavenHome" value="D:/DEV_TOOLS/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\DEV_TOOLS\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dG1bg3CAy72QoYRYoC3IVpaKkG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/org/example/zookeeper/rpc/server" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.zookeeper.rpc.server" />
+      <recent name="org.example.zookeeper.rpc.client" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\DEV\javawe\DistributeLock\src\main\java\org\example\zookeeper\rpc\server" />
+      <recent name="D:\DEV\javawe\DistributeLock\src\main\java\org\example\zookeeper\rpc\client" />
+      <recent name="D:\DEV\javawe\DistributeLock\src\main\java\org\example\zookeeper\rmi\server" />
+      <recent name="D:\DEV\javawe\DistributeLock\src\main\java\org\example\zookeeper\rmi" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ClinetDemo">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.zookeeper.App" />
+      <module name="DistributeLock.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.zookeeper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.zookeeper.rmi.client.ClientDemo" />
+      <module name="DistributeLock.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.zookeeper.rmi.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClinetDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.zookeeper.rpc.client.ClinetDemo" />
+      <module name="DistributeLock.main" />
+      <option name="VM_PARAMETERS" value="-Dfile.encoding=utf-8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.zookeeper.rpc.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.zookeeper.rmi.server.Server" />
+      <module name="DistributeLock.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.zookeeper.rmi.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.zookeeper.rpc.server.ServerDemo" />
+      <module name="DistributeLock.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.zookeeper.rpc.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.App" />
+      <item itemvalue="Application.ClientDemo" />
+      <item itemvalue="Application.ClinetDemo" />
+      <item itemvalue="Application.Server" />
+      <item itemvalue="Application.ServerDemo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ClinetDemo" />
+        <item itemvalue="Application.ServerDemo" />
+        <item itemvalue="Application.ClientDemo" />
+        <item itemvalue="Application.Server" />
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ad9a313-a283-4c9d-a436-dff716891bed" name="Default Changelist" comment="" />
+      <created>1592036688452</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592036688452</updated>
+      <workItem from="1592036693172" duration="5391000" />
+      <workItem from="1592051548346" duration="4316000" />
+      <workItem from="1592112019333" duration="11255000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="42" key="#Project_Structure" timestamp="1592055161696">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="233" y="42" key="#Project_Structure/0.0.1280.760@0.0.1280.760" timestamp="1592055161696" />
+    <state x="96" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592113253970">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="96" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.760@0.0.1280.760" timestamp="1592113253970" />
+    <state x="446" y="89" key="#com.intellij.ide.util.MemberChooser" timestamp="1592122300722">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="446" y="89" key="#com.intellij.ide.util.MemberChooser/0.0.1280.760@0.0.1280.760" timestamp="1592122300722" />
+    <state x="371" y="130" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592121928990">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="371" y="130" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.760@0.0.1280.760" timestamp="1592121928990" />
+    <state x="396" y="88" key="#xdebugger.evaluate" timestamp="1592121634352">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="396" y="88" key="#xdebugger.evaluate/0.0.1280.760@0.0.1280.760" timestamp="1592121634352" />
+    <state width="486" height="453" key="DebuggerActiveHint" timestamp="1592123369543">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="486" height="453" key="DebuggerActiveHint/0.0.1280.760@0.0.1280.760" timestamp="1592123369543" />
+    <state x="422" y="139" key="FileChooserDialogImpl" timestamp="1592038083707">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="422" y="139" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1592038083707" />
+    <state width="1238" height="270" key="GridCell.Tab.0.bottom" timestamp="1592123659752">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="270" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1592123659752" />
+    <state width="1238" height="270" key="GridCell.Tab.0.center" timestamp="1592123659752">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="270" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1592123659752" />
+    <state width="1238" height="270" key="GridCell.Tab.0.left" timestamp="1592123659752">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="270" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1592123659752" />
+    <state width="1238" height="270" key="GridCell.Tab.0.right" timestamp="1592123659752">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="270" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1592123659752" />
+    <state width="1238" height="270" key="GridCell.Tab.1.bottom" timestamp="1592123659753">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="270" key="GridCell.Tab.1.bottom/0.0.1280.760@0.0.1280.760" timestamp="1592123659753" />
+    <state width="1238" height="270" key="GridCell.Tab.1.center" timestamp="1592123659753">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="270" key="GridCell.Tab.1.center/0.0.1280.760@0.0.1280.760" timestamp="1592123659753" />
+    <state width="1238" height="270" key="GridCell.Tab.1.left" timestamp="1592123659753">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="270" key="GridCell.Tab.1.left/0.0.1280.760@0.0.1280.760" timestamp="1592123659753" />
+    <state width="1238" height="270" key="GridCell.Tab.1.right" timestamp="1592123659753">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="270" key="GridCell.Tab.1.right/0.0.1280.760@0.0.1280.760" timestamp="1592123659753" />
+    <state x="144" y="25" key="SettingsEditor" timestamp="1592113238580">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="144" y="25" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1592113238580" />
+    <state x="46" y="131" key="caller.chooser.dialog" timestamp="1592122627173">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="46" y="131" key="caller.chooser.dialog/0.0.1280.760@0.0.1280.760" timestamp="1592122627173" />
+    <state x="6" y="0" key="new project wizard" timestamp="1592057785805">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="6" y="0" key="new project wizard/0.0.1280.760@0.0.1280.760" timestamp="1592057785805" />
+    <state x="299" y="172" key="run.anything.popup" timestamp="1592112982670">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="299" y="172" key="run.anything.popup/0.0.1280.760@0.0.1280.760" timestamp="1592112982670" />
+  </component>
+</project>

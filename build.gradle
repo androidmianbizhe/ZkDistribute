@@ -1,0 +1,27 @@
+plugins {
+    id 'java'
+}
+
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+tasks.withType(JavaCompile) {
+    options.encoding = 'UTF-8'
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    // https://mvnrepository.com/artifact/org.apache.zookeeper/zookeeper
+    compile group: 'org.apache.zookeeper', name: 'zookeeper', version: '3.4.8', ext: 'pom'
+// https://mvnrepository.com/artifact/org.apache.curator/curator-framework
+    compile group: 'org.apache.curator', name: 'curator-framework', version: '4.0.0'
+// https://mvnrepository.com/artifact/org.apache.curator/curator-recipes
+    compile group: 'org.apache.curator', name: 'curator-recipes', version: '4.0.1'
+
+}
